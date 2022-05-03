@@ -109,10 +109,10 @@ function App() {
                       <div>
                         <div>
                           <h4>
-                              A generative art collection that you can mint on the <a href='https://www.avax.network/' target="_blank">Avalanche blockchain</a>. Nothing more, nothing less. 
+                              A generative art collection that you can mint on the <a href='https://www.avax.network/' target="_blank" rel="noreferrer">Avalanche blockchain</a>. Nothing more, nothing less. 
                           </h4>
                           <h5>
-                              Each piece is unique and randomly generated. Image and metadata are stored for all eternity on <a href='https://www.arweave.org/' target="_blank">Arweave</a>.
+                              Each piece is unique and randomly generated. Image and metadata are stored for all eternity on <a href='https://www.arweave.org/' target="_blank" rel="noreferrer">Arweave</a>.
                           </h5>
                         </div>
                         {
