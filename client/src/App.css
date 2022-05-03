@@ -1,0 +1,80 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    font-family: 'monaco';
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 10px 0 10px;
+
+    background: rgba(134, 217, 204, .6);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(134, 217, 204, 0.3);
+}
+
+@media (min-width: 600px) {
+    .slider {
+        padding-right: 5rem;
+        width: 600px;
+    }
+}
+
+@media (max-width: 599px) {
+    .slider {
+        padding-right: 5rem;
+        width: 275px;
+    }
+}
+
+
+@media (min-width: 600px) {
+    .infoContainer {
+        padding: 0 7rem 0 7rem;
+    }
+}
+
+@media (max-width: 599px) {
+    .infoContainer {
+        padding: 0 1rem 0 1rem;
+    }
+}
+
+.headerTitle {
+    color: black; 
+    font-family: Monaco;
+    font-size: 70px;
+    
+}
+
+
+@media (max-width: 599px) {
+    .headerTitle {
+       font-size: 30px;
+    }
+}
+
+
+.mintContainer {
+  background: rgba(134, 217, 204, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  
+  border: 1px solid rgba(134, 217, 204, 0.3);
+  padding: 10px 0 10px 0;
+}
+

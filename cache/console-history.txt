@@ -1,0 +1,52 @@
+.exit
+exit
+hi
+hi = await coin2.setPrice(3939399393939)
+coin2.setPrice(3939399393939)
+coin2
+const coin2 = await Coin.attach('0xA2724694a16Eb56CEA95BBA09f5BBf024BA00413')
+const coin = await Coin.attach('0x17aB05351fC94a1a67Bf3f56DdbB941aE6')
+const Coin = await ethers.getContractFactory('SandglassIridium');
+.exit
+exit
+haha.toString() 
+haha.toString()
+haha
+let haha = coin5.withdraw('0x9632a79656af553F58738B0FB750320158495942')
+const coin5 = await Coin5.attach('0x9632a79656af553F58738B0FB750320158495942')
+const Coin5 = await ethers.getContractFactory('SandglassIridium');
+y8
+let y8 = await coin.withdraw('0x9632a79656af553F58738B0FB750320158495942')
+const coin2 = await Coin.attach('0x9632a79656af553F58738B0FB750320158495942')
+const Coin2 = await ethers.getContractFactory('SandglassIridium');
+y02
+let y02 = await coin.withdraw('0x9632a79656af553F58738B0FB750320158495942')
+let contractAsSigner2 = coin.connect(signer2)
+let signer2 = await ethers.provider.getSigner(2)
+yo
+yo.toString()
+let yo = await coin.withdraw('0x9632a79656af553F58738B0FB750320158495942')
+let contractAsSigner1 = coin.connect(signer1)
+let signer1 = await ethers.provider.getSigner(0)
+const coin = await Coin.attach('0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E25')
+const Coin = await ethers.getContractFactory('SandglassIridium');
+me2.royaltyAmount.toString()
+let me2 = await contractAsSigner2.royaltyInfo(1, 100002002020)
+me.royaltyAmount.toString()
+me[3]
+me
+let me = await contractAsSigner2.royaltyInfo(1, 1000)
+hi
+hi = await yo.toString()
+await yo.toString()
+yo.toString()
+yo = contractAsSigner2.royaltyInfo(1, 1000)
+contractAsSigner2.royaltyInfo(1, 1000)
+contractAsSigner2.mint(1)
+contractAsSigner2.mint(1, 0)
+let contractAsSigner2 = nft.connect(signer1)
+let contractAsSigner1 = nft.connect(signer1)
+let contractAsSigner1 = coin.connect(signer1)
+let signer1 = await ethers.provider.getSigner(0)
+const nft = await Nft.attach('0x52C84043CD9c865236f11d9Fc9F56aa003c1f922')
+const Nft = await ethers.getContractFactory('SandglassIridium');
